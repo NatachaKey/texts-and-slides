@@ -4,7 +4,7 @@ import './App.css';
 
 function Slides(){
     const [foto, setFoto]= useState(0);
-    const {id, image}= islands[foto];
+    const {image}= islands[foto];
 
     const previousIsland=()=>{
         setFoto((foto=>{
