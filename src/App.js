@@ -47,8 +47,6 @@ return (
           <button className="btnDelete" onClick={()=>removeIsland (id)}>Remove</button>
         </div>
 
-        
-
         </div>
       )
     }
@@ -70,8 +68,6 @@ return (
 
 </div>
   );
-
- 
   
 }
 
