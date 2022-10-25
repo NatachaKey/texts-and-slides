@@ -6,8 +6,8 @@ body{
   margin-top: 10px;
   display: flex;
   justify-content: center;
- text-align: center;
- font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1{
@@ -71,7 +71,7 @@ h1{
 }
 .btnNexAndPrevious:hover{
  color:#FD841F;
-   background-color:#fff;
+ background-color:#fff;
 }
 
 .blueBackground {
