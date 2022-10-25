@@ -91,6 +91,4 @@ export const data= [
         showMore: false, 
     }
 
- 
-
 ]
